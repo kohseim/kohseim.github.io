@@ -1,1 +1,2 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+This code is modified from the source code of Jon Barron’s public academic website: https://jonbarron.info/
+
